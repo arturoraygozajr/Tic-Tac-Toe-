@@ -2,7 +2,7 @@
 }
 .board {
 	background-color: #00802b;
-	height: 700px;
+	height: 740px;
 	width: 700px;
 	margin: 0 auto;
 }
@@ -17,8 +17,23 @@
 	color: white;
 	font-size: 13em;
 	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 10px;
 }
+
+/*h1 {
+	background-color: #00802b;
+	font-size: 5em;
+	text-align: center;
+
+}*/
 
 p {
 	color: white;
+	font-size: 5em;
+	text-align: center;
+}
+
+.wrap {
+	margin:0 auto;
 }
