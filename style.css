@@ -1,17 +1,24 @@
 .container{
 }
 .board {
-    background-color: #00802b;
-    height: 700px;
-    width: 700px;
-    margin: 0 auto;
+	background-color: #00802b;
+	height: 700px;
+	width: 700px;
+	margin: 0 auto;
 }
 
 .box {
-    background-color: #86592d;
-    height: 200px;
-    border: 2px solid black;
-    width: 200px;
-    float: left;
-    margin: 0 auto;
+	background-color: #86592d;
+	height: 200px;
+	border: 2px solid black;
+	width: 200px;
+	float: left;
+	margin: 0 auto;
+	color: white;
+	font-size: 13em;
+	text-align: center;
+}
+
+p {
+	color: white;
 }
